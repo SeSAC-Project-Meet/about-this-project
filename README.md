@@ -1,9 +1,5 @@
 # SeSAC 2024 Project: Meet
 
-## 📋 Before You Start
-
-각각 `frontend/`와 `backend/` 디렉토리에 `config.json` 파일을 추가해야 합니다.
-
 <!--
 초기, 빈 프로젝트에 알맞게 config.json을 작성하였습니다.
 각자 개발해 나아가면서 config.json에 변경사항이 생길 경우
@@ -16,26 +12,12 @@ gitignore에 포함되어 있어, 공유가 안되면 관리가 되지 않습니
 추가하실 사항이 있다면 상의 후 수정 부탁드립니다.
 -->
 
-```json
-// frontend/config.json
-{
-  "API_URL": "http://localhost:10000"
-}
-```
-
-```json
-// backend/config.json
-{
-  "PORT": 10000
-}
-```
-
 ## 👥 팀원 소개
 
 #### Mentor : [나동빈 강사님](https://github.com/ndb796)
 
-- Team Leader : [!박경운](https://github.com/kyeoungwoon)
-- Team Member : [!최재원](https://github.com/JayOneC)
+- Team Leader : [박경운](https://github.com/kyeoungwoon)
+- Team Member : [최재원](https://github.com/JayOneC)
 
 ## 🌟 프로젝트 개요
 
