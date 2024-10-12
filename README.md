@@ -34,9 +34,8 @@ gitignore에 포함되어 있어, 공유가 안되면 관리가 되지 않습니
 
 #### Mentor : [나동빈 강사님](https://github.com/ndb796)
 
-- Team Leader : [박경운](https://github.com/kyeoungwoon)
-- Team Member : [최재원](https://github.com/JayOneC)
-- Team Member : [이준엽](https://github.com/jy0830)
+- Team Leader : [!박경운](https://github.com/kyeoungwoon)
+- Team Member : [!최재원](https://github.com/JayOneC)
 
 ## 🌟 프로젝트 개요
 
